@@ -1,0 +1,20 @@
+{
+  "artists": [{
+    "name": "Fleck",
+    "title": "Lucky Shot",
+    "medium": "Canvas print",
+    "work": "images/lucky-shot.jpg"
+  },
+  {
+    "name": "Nicebleed",
+    "title": "Bleed",
+    "medium": "Canvas print",
+    "work": "images/bleed.jpg"
+  }, 
+  {
+    "name": "Balazs Solti",
+    "title": "The Clown",
+    "medium": "Canvas print",
+    "work": "images/the-clown.jpg"
+  }]
+}
